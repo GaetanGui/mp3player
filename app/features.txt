@@ -1,0 +1,15 @@
+
+Selectionner un fichier ou des fichiers
+
+Afficher le nom du mp3 en court de lecture ( auteur / durée ...)
+Barre de progression dans la lecture
+
+
+Play sur un fichier mp3
+Stop sur un fichier mp3
+Pause sur un fichier mp3
+Musique suivante / precedente
+Changer le volume
+
+Ajouter fichiers a une playlist
+Sauvegarder / Charger une playliste
