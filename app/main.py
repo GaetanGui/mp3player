@@ -8,6 +8,9 @@ from PyQt5 import Qt
 
 from ui import MainWindow
 
+""" Fichier a executer pour lancer le player mp3
+"""
+
 def main():
 
     app = QApplication([])
